@@ -23,9 +23,13 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
 </div>
 
@@ -41,9 +45,37 @@
   <img src="https://github-profile-trophy.vercel.app/?username=muhammedsali&theme=darkhub&no-frame=true&row=1"/>
 </div>
 
+## 💼 Projeler
+
+- 🍽️ **Restoran Sipariş Takip Sistemi**
+  - Windows Form tabanlı restoran yönetim sistemi
+  - [Proje Detayı](https://github.com/muhammedsali/RestoranTakip)
+
+- 📝 **Kişisel Not Defteri Uygulaması**
+  - JavaFX ile geliştirilmiş not tutma uygulaması
+  - [Proje Detayı](https://github.com/muhammedsali/RestoranTakip)
+
+- 👥 **Personel Takip Uygulaması**
+  - C# Windows Form ve MS Access ile geliştirilmiş otomasyon sistemi
+  - [Proje Detayı](https://github.com/muhammedsali/automation)
+
+## 🎓 Eğitim
+
+- 📚 Kırklareli Üniversitesi - Yazılım Mühendisliği (2022-Devam)
+
+## 🌟 Sertifikalar
+
+- JAVA ile Programlamaya Giriş
+- Uygulamalarla Nesne Yönelimli Programlama
+- Algoritma Programlama ve Veri Yapılarına Giriş
+- Algoritma ve Veri Yapıları İleri Seviye
+- Algoritma Tasarımı
+
 ## 📫 İletişim
 
 - 📧 Email: muhammed.sali1@outlook.com
+- 📱 Telefon: +90 (545) 923 96 88
+- 📍 Konum: Gültepe Mah. 5311 Sk. Yonca Sit. A Blok No:3
 - 💼 LinkedIn: https://www.linkedin.com/in/muhammedsali
 
 ---
