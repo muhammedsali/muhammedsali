@@ -86,7 +86,6 @@
 
 - 📧 Email: muhammed.sali1@outlook.com
 - 📱 Telefon: +90 (545) 923 96 88
-- 📍 Konum: Gültepe Mah. 5311 Sk. Yonca Sit. A Blok No:3
 - 💼 LinkedIn: https://www.linkedin.com/in/muhammedsali
 
 ---
