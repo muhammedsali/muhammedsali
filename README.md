@@ -85,8 +85,6 @@
 ## 📫 İletişim
 
 - 📧 Email: muhammed.sali1@outlook.com
-- 📱 Telefon: +90 (545) 923 96 88
-- 💼 LinkedIn: https://www.linkedin.com/in/muhammedsali
 
 ---
 <div align="center">
