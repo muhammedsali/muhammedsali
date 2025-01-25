@@ -59,7 +59,7 @@
     - Modern card-based interface
     - Automatic connection system
     - Improved performance and stability
-  - [Project Details](https://github.com/muhammedsali/MobileAgentControl-V2)
+  - <a href="https://github.com/muhammedsali/MobileAgentControl-V2" target="_blank">Project Details</a>
 
 - 🎮 **Mobile Agent Control for Valorant V1**
   - Original version with TCP/IP communication
@@ -70,19 +70,19 @@
     - Real-time mouse control
     - Modern UI and animations
     - Secure socket communication
-  - [Project Details](https://github.com/muhammedsali/MobileAgentControl)
+  - <a href="https://github.com/muhammedsali/MobileAgentControl" target="_blank">Project Details</a>
 
 - 🍽️ **Restaurant Order Tracking System**
   - Windows Form based restaurant management system
-  - [Project Details](https://github.com/muhammedsali/RestoranTakip)
+  - <a href="https://github.com/muhammedsali/RestoranTakip" target="_blank">Project Details</a>
 
 - 📝 **Personal Notepad Application**
   - Note-taking application developed with JavaFX
-  - [Project Details](https://github.com/muhammedsali/RestoranTakip)
+  - <a href="https://github.com/muhammedsali/RestoranTakip" target="_blank">Project Details</a>
 
 - 👥 **Personnel Tracking Application**
   - Automation system developed with C# Windows Form and MS Access
-  - [Project Details](https://github.com/muhammedsali/automation)
+  - <a href="https://github.com/muhammedsali/automation" target="_blank">Project Details</a>
 
 ## 🎓 Education
 
