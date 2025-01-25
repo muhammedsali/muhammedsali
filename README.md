@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-  <h1>Merhaba 👋, Ben Muhammed Sali</h1>
+  <h1>Hi there 👋, I'm Muhammed Sali</h1>
 </div>
 
 <div align="center">
@@ -10,13 +10,13 @@
 
 </div>
 
-## 👨‍💻 Hakkımda
+## 👨‍💻 About Me
 
-- 🎓 Yazılım Mühendisliği 3. Sınıf Öğrencisi
-- 🌱 Sürekli öğrenmeye ve kendimi geliştirmeye odaklıyım
-- 💻 Yazılım geliştirme tutkunu
+- 🎓 3rd Year Software Engineering Student
+- 🌱 Focused on continuous learning and self-improvement
+- 💻 Passionate about software development
 
-## 🛠️ Teknoloji Yığınım
+## 🛠️ Tech Stack
 
 <div align="center">
   
@@ -31,58 +31,72 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 </div>
 
-## 📊 GitHub İstatistiklerim
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammedsali&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedsali&layout=compact&theme=tokyonight"/>
 </div>
 
-## 🏆 GitHub Tropilerim
+## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=muhammedsali&theme=darkhub&no-frame=true&row=1"/>
 </div>
 
-## 💼 Projeler
+## 💼 Projects
 
-- 🎮 **Mobile Agent Control for Valorant**
-  - Android ve Windows uygulaması ile Valorant oyununda uzaktan ajan seçimi ve kilitleme sistemi
-  - Kotlin, C#, TCP/IP, Material Design kullanılarak geliştirildi
-  - Özellikler:
-    - Mobil cihaz üzerinden uzaktan ajan seçimi
-    - Gerçek zamanlı fare kontrolü
-    - Modern UI ve animasyonlar
-    - Güvenli soket iletişimi
-  - [Proje Detayı](https://github.com/muhammedsali/MobileAgentControl)
+- 🎮 **Mobile Agent Control for Valorant V2**
+  - Remote agent selection and locking system for Valorant using Android and Windows applications
+  - Enhanced V2 version with Firebase integration and modern UI/UX features
+  - Technologies: Kotlin, C#, Firebase, Material Design 3
+  - Features:
+    - Role-based agent categories
+    - Real-time data synchronization
+    - Modern card-based interface
+    - Automatic connection system
+    - Improved performance and stability
+  - [Project Details](https://github.com/muhammedsali/MobileAgentControl-V2)
 
-- 🍽️ **Restoran Sipariş Takip Sistemi**
-  - Windows Form tabanlı restoran yönetim sistemi
-  - [Proje Detayı](https://github.com/muhammedsali/RestoranTakip)
+- 🎮 **Mobile Agent Control for Valorant V1**
+  - Original version with TCP/IP communication
+  - Remote agent selection and mouse control
+  - Technologies: Kotlin, C#, TCP/IP, Material Design
+  - Features:
+    - Remote agent selection via mobile device
+    - Real-time mouse control
+    - Modern UI and animations
+    - Secure socket communication
+  - [Project Details](https://github.com/muhammedsali/MobileAgentControl)
 
-- 📝 **Kişisel Not Defteri Uygulaması**
-  - JavaFX ile geliştirilmiş not tutma uygulaması
-  - [Proje Detayı](https://github.com/muhammedsali/RestoranTakip)
+- 🍽️ **Restaurant Order Tracking System**
+  - Windows Form based restaurant management system
+  - [Project Details](https://github.com/muhammedsali/RestoranTakip)
 
-- 👥 **Personel Takip Uygulaması**
-  - C# Windows Form ve MS Access ile geliştirilmiş otomasyon sistemi
-  - [Proje Detayı](https://github.com/muhammedsali/automation)
+- 📝 **Personal Notepad Application**
+  - Note-taking application developed with JavaFX
+  - [Project Details](https://github.com/muhammedsali/RestoranTakip)
 
-## 🎓 Eğitim
+- 👥 **Personnel Tracking Application**
+  - Automation system developed with C# Windows Form and MS Access
+  - [Project Details](https://github.com/muhammedsali/automation)
 
-- 📚 Kırklareli Üniversitesi - Yazılım Mühendisliği (2022-Devam)
+## 🎓 Education
 
-## 🌟 Sertifikalar
+- 📚 Kırklareli University - Software Engineering (2022-Present)
 
-- JAVA ile Programlamaya Giriş
-- Uygulamalarla Nesne Yönelimli Programlama
-- Algoritma Programlama ve Veri Yapılarına Giriş
-- Algoritma ve Veri Yapıları İleri Seviye
-- Algoritma Tasarımı
+## 🌟 Certificates
 
-## 📫 İletişim
+- Introduction to Programming with JAVA
+- Object-Oriented Programming with Applications
+- Introduction to Algorithm Programming and Data Structures
+- Advanced Algorithm and Data Structures
+- Algorithm Design
+
+## 📫 Contact
 
 - 📧 Email: muhammed.sali1@outlook.com
 
