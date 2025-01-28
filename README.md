@@ -42,10 +42,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedsali&layout=compact&theme=tokyonight"/>
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammedsali&theme=darkhub&no-frame=true&row=1"/>
-</div>
 
 ## 💼 Projects
 
