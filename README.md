@@ -1,26 +1,26 @@
 
+# ⚡ **Muhammed Sali**
 
-# ✦ Muhammed Sali
-
-**Software Engineering Student | Mobile & Full-Stack Developer**
+### *Software Engineer • Mobile Developer • Full-Stack Builder*
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="260">
+  <img src="https://media.giphy.com/media/26xBukh3Cbdm8Q7nW/giphy.gif" width="300"/>
 </p>
 
 ---
 
-## ✨ About Me
+# 🌌 About Me
 
-Ben Muhammed, Kırklareli Üniversitesi’nde Yazılım Mühendisliği öğrencisiyim.
-Modern mobil uygulamalar, akıllı sistemler ve otomasyon yazılımları geliştiriyorum.
-Odak noktam: **temiz kod, ölçeklenebilir mimari ve modern UI/UX**.
+I'm Muhammed, a Software Engineering student passionate about building modern, fast and scalable applications.
+I focus on **mobile development**, **automation systems**, and **clean architecture** with a strong eye for **UI/UX**.
+
+I love turning ideas into real, working products.
 
 ---
 
-## 🧩 Skills & Technologies
+# ⚙️ Tech Stack (Neon)
 
-### 🎯 Languages
+### 💻 Languages
 
 `JavaScript` • `Python` • `Java` • `C#` • `Kotlin` • `PHP`
 
@@ -28,73 +28,76 @@ Odak noktam: **temiz kod, ölçeklenebilir mimari ve modern UI/UX**.
 
 `Flutter` • `React` • `Jetpack Compose` • `JavaFX`
 
-### 🔧 Backend
+### 🖥 Backend & Databases
 
 `Node.js` • `Express` • `Firebase`
 `MySQL` • `MSSQL` • `MongoDB`
 
-### 🛠 Tools & Others
+### 🛠 Tools
 
-`Git` • `Postman` • `Figma` • `Docker` (Beginner)
+`Git` • `Docker` • `Postman` • `Figma`
 
 ---
 
-## 🚀 Highlighted Projects
+# 🚀 Featured Projects
 
-### ⚡ Mobile Agent Control – Valorant (V2)
+## 🔥 **Mobile Agent Control – Valorant (V2)**
 
-Modern UI, Firebase, gerçek zamanlı bağlantı ve çok daha gelişmiş kontrol sistemi.
+A full modern remote agent control system with Firebase and real-time sync.
 **Tech:** Kotlin, C#, Firebase
 🔗 [https://github.com/muhammedsali/MobileAgentControl-V2](https://github.com/muhammedsali/MobileAgentControl-V2)
 
 ---
 
-### 🎮 Mobile Agent Control – Valorant (V1)
+## 🎮 **Mobile Agent Control – Valorant (V1)**
 
-Temel sürüm — mobil cihazdan PC ajan/mouse kontrolü.
+First version with TCP/IP, mobile-to-PC agent & mouse control.
 **Tech:** Kotlin, C#, TCP/IP
 🔗 [https://github.com/muhammedsali/MobileAgentControl](https://github.com/muhammedsali/MobileAgentControl)
 
 ---
 
-### 🍽 Restaurant Order Tracking
+## 🍽 **Restaurant Order Tracking System**
 
-Windows Form tabanlı menü–sipariş–masa yönetimi otomasyonu.
+Windows Form based automation for restaurant management.
 🔗 [https://github.com/muhammedsali/RestoranTakip](https://github.com/muhammedsali/RestoranTakip)
 
 ---
 
-### 📝 JavaFX Notepad
+## 📝 **JavaFX Notepad App**
 
-Kişisel not uygulaması — sade & hızlı.
+A clean and simple personal note-taking app.
 🔗 [https://github.com/muhammedsali/RestoranTakip](https://github.com/muhammedsali/RestoranTakip)
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
-**Kırklareli University – Software Engineering**
+**Kırklareli University — Software Engineering**
 *2022 – Present*
 
 ---
 
-## 📚 Certificates
-
-* Java Programming
-* Object Oriented Programming
-* Data Structures
-* Algorithm Design (Advanced)
-
----
-
-## 📬 Contact
+# 📬 Contact
 
 📧 **[muhammed.sali1@outlook.com](mailto:muhammed.sali1@outlook.com)**
-🔗 **LinkedIn:** [www.linkedin.com/in/muhammedsali](http://www.linkedin.com/in/muhammedsali)
+🔗 **LinkedIn:** [https://www.linkedin.com/in/muhammedsali](https://www.linkedin.com/in/muhammedsali)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhammedsali&style=flat&color=0A66C2"/>
+  <img src="https://komarev.com/ghpvc/?username=muhammedsali&color=0cf&style=flat-square"/>
 </p>
+
+---
+
+# 🌙 Dark + Neon Special Signature
+
+<p align="center">
+<code style="font-size: 20px;">
+  const life = () => { return &lt;code /&gt;; }
+</code><br/>
+✨ *Keep coding. Keep creating.*  
+</p>
+
 
