@@ -1,10 +1,7 @@
 name: Metrics
 on:
-  # Her gün gece yarısı (Türkiye saatiyle 03:00 civarı) çalışır
   schedule: [{cron: "0 0 * * *"}]
-  # İstediğin zaman Actions sekmesinden elle tetiklemek için
   workflow_dispatch:
-  # Main branch'e bir şey pushlarsan da çalışsın
   push: {branches: ["master", "main"]}
 
 jobs:
@@ -20,14 +17,14 @@ jobs:
           # --- Temel Ayarlar ---
           user: muhammedsali
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, repositories
           config_timezone: Europe/Istanbul
           
-          # --- 1. İzometrik Takvim (3D Şehir Görünümü) ---
+          # --- 1. İzometrik Takvim ---
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-          # --- 2. Diller (Detaylı Grafik) ---
+          # --- 2. Diller (Hatasız Çalışıyor) ---
           plugin_languages: yes
           plugin_languages_ignored: >-
             html, css
@@ -36,25 +33,24 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_limit: 8
 
-          # --- 3. Başarımlar (Achievements) ---
+          # --- 3. Başarımlar (DÜZELTME: Limit eklendi) ---
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_threshold: C
+          # Çok fazla veri çekmeye çalışıp hata vermemesi için limit koyduk
+          plugin_achievements_limit: 5 
 
-          # --- 4. Kodlama Alışkanlıkları (Habits) ---
+          # --- 4. Kodlama Alışkanlıkları (DÜZELTME: Facts kapatıldı) ---
           plugin_habits: yes
           plugin_habits_charts_type: classic
           plugin_habits_days: 14
           plugin_habits_from: 200
-          plugin_habits_facts: yes
+          # "Facts" kısmı bazen hata verdiği için kapattık, sadece grafik kalsın
+          plugin_habits_facts: no 
 
-          # --- 5. Konular (Topics) ---
-          plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_mode: icons
-
-          # --- 6. Son Aktiviteler ---
+          # --- 5. Son Aktiviteler (DÜZELTME: Yük azaltıldı) ---
           plugin_activity: yes
-          plugin_activity_limit: 5
+          plugin_activity_limit: 3    # 5 yerine 3 yaptık, yükü azalttık
           plugin_activity_days: 14
           plugin_activity_filter: all
+          plugin_activity_visibility: all # Private repolardaki aktiviteyi de zorla
