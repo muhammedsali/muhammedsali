@@ -1,98 +1,100 @@
 
-# 🌙 Muhammed Sali
+
+# ✦ Muhammed Sali
 
 **Software Engineering Student | Mobile & Full-Stack Developer**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="260">
 </p>
 
 ---
 
-## 🚀 About Me
+## ✨ About Me
 
-* 🎓 4th Year Software Engineering student
-* 💡 Mobile apps, automation systems & modern UI/UX ile ilgileniyorum
-* 📈 Sürekli öğrenme ve kendini geliştirme odaklı
-* 🧠 Valorant otomasyon sistemleri, mobil bağlantı uygulamaları ve kişisel üretkenlik araçları geliştiriyorum
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Languages & Core
-
-`JavaScript` • `Python` • `Java` • `C#` • `PHP` • `Kotlin`
-
-### 🎨 Frontend & Mobile
-
-`Flutter` • `React` • `JavaFX` • `Material Design`
-
-### 🗄 Backend & Databases
-
-`Node.js` • `Express` • `MySQL` • `MSSQL` • `Firebase`
-
-### ⚙ Tools
-
-`Git` • `Postman` • `Figma` • `Docker` (başlangıç)
+Ben Muhammed, Kırklareli Üniversitesi’nde Yazılım Mühendisliği öğrencisiyim.
+Modern mobil uygulamalar, akıllı sistemler ve otomasyon yazılımları geliştiriyorum.
+Odak noktam: **temiz kod, ölçeklenebilir mimari ve modern UI/UX**.
 
 ---
 
-## 📌 Featured Projects
+## 🧩 Skills & Technologies
 
-### 🎮 **Mobile Agent Control – Valorant (V2)**
+### 🎯 Languages
 
-Modern UI/UX’e sahip mobil + Windows kontrollü ajan seçme uygulaması.
-**Kotlin, C#, Firebase**
-🔗 [Repo’yu İncele](https://github.com/muhammedsali/MobileAgentControl-V2)
+`JavaScript` • `Python` • `Java` • `C#` • `Kotlin` • `PHP`
 
----
+### 📱 Mobile & Frontend
 
-### 🎮 **Mobile Agent Control – V1**
+`Flutter` • `React` • `Jetpack Compose` • `JavaFX`
 
-İlk sürüm — mobil cihaz üzerinden PC’ye TCP/IP ile bağlanıp ajan seçme & mouse kontrolü.
-🔗 [Repo’yu İncele](https://github.com/muhammedsali/MobileAgentControl)
+### 🔧 Backend
 
----
+`Node.js` • `Express` • `Firebase`
+`MySQL` • `MSSQL` • `MongoDB`
 
-### 🍽 **Restaurant Order Tracking System**
+### 🛠 Tools & Others
 
-Windows Form tabanlı restoran sipariş takip otomasyonu.
-🔗 [Repo](https://github.com/muhammedsali/RestoranTakip)
+`Git` • `Postman` • `Figma` • `Docker` (Beginner)
 
 ---
 
-### 📝 **Personal Notepad (JavaFX)**
+## 🚀 Highlighted Projects
 
-Modern görünümlü kişisel not uygulaması.
-🔗 [Repo](https://github.com/muhammedsali/RestoranTakip)
+### ⚡ Mobile Agent Control – Valorant (V2)
+
+Modern UI, Firebase, gerçek zamanlı bağlantı ve çok daha gelişmiş kontrol sistemi.
+**Tech:** Kotlin, C#, Firebase
+🔗 [https://github.com/muhammedsali/MobileAgentControl-V2](https://github.com/muhammedsali/MobileAgentControl-V2)
+
+---
+
+### 🎮 Mobile Agent Control – Valorant (V1)
+
+Temel sürüm — mobil cihazdan PC ajan/mouse kontrolü.
+**Tech:** Kotlin, C#, TCP/IP
+🔗 [https://github.com/muhammedsali/MobileAgentControl](https://github.com/muhammedsali/MobileAgentControl)
+
+---
+
+### 🍽 Restaurant Order Tracking
+
+Windows Form tabanlı menü–sipariş–masa yönetimi otomasyonu.
+🔗 [https://github.com/muhammedsali/RestoranTakip](https://github.com/muhammedsali/RestoranTakip)
+
+---
+
+### 📝 JavaFX Notepad
+
+Kişisel not uygulaması — sade & hızlı.
+🔗 [https://github.com/muhammedsali/RestoranTakip](https://github.com/muhammedsali/RestoranTakip)
 
 ---
 
 ## 🎓 Education
 
-**Kırklareli University – Software Engineering (2022–Present)**
+**Kırklareli University – Software Engineering**
+*2022 – Present*
 
 ---
 
-## 🏆 Certificates
+## 📚 Certificates
 
-* Intro to Programming with Java
-* Object-Oriented Programming
-* Data Structures & Algorithms
-* Advanced Algorithm Design
+* Java Programming
+* Object Oriented Programming
+* Data Structures
+* Algorithm Design (Advanced)
 
 ---
 
-## 📫 Contact
+## 📬 Contact
 
 📧 **[muhammed.sali1@outlook.com](mailto:muhammed.sali1@outlook.com)**
-🔗 **LinkedIn:** [https://www.linkedin.com/in/muhammedsali](https://www.linkedin.com/in/muhammedsali)
+🔗 **LinkedIn:** [www.linkedin.com/in/muhammedsali](http://www.linkedin.com/in/muhammedsali)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhammedsali&color=blue">
+  <img src="https://komarev.com/ghpvc/?username=muhammedsali&style=flat&color=0A66C2"/>
 </p>
-
 
