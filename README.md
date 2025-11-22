@@ -1,6 +1,4 @@
-
-# ⚡ **Muhammed Sali**
-
+# ⚡ Muhammed Sali  
 ### *Software Engineer • Mobile Developer • Full-Stack Builder*
 
 <p align="center">
@@ -10,78 +8,71 @@
 ---
 
 # 🌌 About Me
-
-I'm Muhammed, a Software Engineering student passionate about building modern, fast and scalable applications.
-I focus on **mobile development**, **automation systems**, and **clean architecture** with a strong eye for **UI/UX**.
-
-I love turning ideas into real, working products.
+I'm Muhammed, a Software Engineering student passionate about building modern, fast, and scalable applications.  
+I specialize in **mobile development**, **automation systems**, and **clean architecture** with a strong focus on **UI/UX**.
 
 ---
 
-# ⚙️ Tech Stack (Neon)
+# ⚙️ Tech Stack
 
-### 💻 Languages
-
+### 💻 Languages  
 `JavaScript` • `Python` • `Java` • `C#` • `Kotlin` • `PHP`
 
-### 📱 Mobile & Frontend
-
+### 📱 Mobile & Frontend  
 `Flutter` • `React` • `Jetpack Compose` • `JavaFX`
 
-### 🖥 Backend & Databases
-
-`Node.js` • `Express` • `Firebase`
+### 🖥 Backend & Databases  
+`Node.js` • `Express` • `Firebase`  
 `MySQL` • `MSSQL` • `MongoDB`
 
-### 🛠 Tools
-
+### 🛠 Tools  
 `Git` • `Docker` • `Postman` • `Figma`
+
+---
+
+# 📈 Live Metrics
+
+[![Github Metrics](https://metrics.lecoq.io/muhammedsali?template=classic&config.timezone=Europe/Istanbul)](https://metrics.lecoq.io/muhammedsali)
 
 ---
 
 # 🚀 Featured Projects
 
-## 🔥 **Mobile Agent Control – Valorant (V2)**
-
-A full modern remote agent control system with Firebase and real-time sync.
-**Tech:** Kotlin, C#, Firebase
-🔗 [https://github.com/muhammedsali/MobileAgentControl-V2](https://github.com/muhammedsali/MobileAgentControl-V2)
-
----
-
-## 🎮 **Mobile Agent Control – Valorant (V1)**
-
-First version with TCP/IP, mobile-to-PC agent & mouse control.
-**Tech:** Kotlin, C#, TCP/IP
-🔗 [https://github.com/muhammedsali/MobileAgentControl](https://github.com/muhammedsali/MobileAgentControl)
+## 🔥 Mobile Agent Control – Valorant (V2)
+A modern, Firebase-powered remote agent control system with real-time sync.  
+**Tech:** Kotlin, C#, Firebase  
+🔗 https://github.com/muhammedsali/MobileAgentControl-V2  
 
 ---
 
-## 🍽 **Restaurant Order Tracking System**
-
-Windows Form based automation for restaurant management.
-🔗 [https://github.com/muhammedsali/RestoranTakip](https://github.com/muhammedsali/RestoranTakip)
-
----
-
-## 📝 **JavaFX Notepad App**
-
-A clean and simple personal note-taking app.
-🔗 [https://github.com/muhammedsali/RestoranTakip](https://github.com/muhammedsali/RestoranTakip)
+## 🎮 Mobile Agent Control – Valorant (V1)
+First version with mobile-to-PC TCP/IP communication.  
+**Tech:** Kotlin, C#, TCP/IP  
+🔗 https://github.com/muhammedsali/MobileAgentControl  
 
 ---
 
-# 🎓 Education
+## 🍽 Restaurant Order Tracking System  
+Windows Form based restaurant management automation.  
+🔗 https://github.com/muhammedsali/RestoranTakip  
 
-**Kırklareli University — Software Engineering**
+---
+
+## 📝 JavaFX Notepad  
+Simple and clean note-taking application.  
+🔗 https://github.com/muhammedsali/RestoranTakip  
+
+---
+
+# 🎓 Education  
+**Kırklareli University — Software Engineering**  
 *2022 – Present*
 
 ---
 
-# 📬 Contact
-
-📧 **[muhammed.sali1@outlook.com](mailto:muhammed.sali1@outlook.com)**
-🔗 **LinkedIn:** [https://www.linkedin.com/in/muhammedsali](https://www.linkedin.com/in/muhammedsali)
+# 📬 Contact  
+📧 **muhammed.sali1@outlook.com**  
+🔗 **LinkedIn:** https://www.linkedin.com/in/muhammedsali  
 
 ---
 
@@ -91,13 +82,7 @@ A clean and simple personal note-taking app.
 
 ---
 
-# 🌙 Dark + Neon Special Signature
-
 <p align="center">
-<code style="font-size: 20px;">
-  const life = () => { return &lt;code /&gt;; }
-</code><br/>
-✨ *Keep coding. Keep creating.*  
+<code style="font-size: 20px;">const life = () => "&lt;code/&gt;"</code><br/>
+✨ <i>Keep coding. Keep creating.</i>
 </p>
-
-
