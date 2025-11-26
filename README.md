@@ -41,10 +41,12 @@
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
+| **[🧠 NöroDakika](https://github.com/muhammedsali/norodakika)** | Cognitive training app with adaptive mini-games, modern dark/light UI and local progress tracking. | `Flutter` `Dart` `Riverpod` |
 | **[🔥 Mobile Agent Control V2](https://github.com/muhammedsali/MobileAgentControl-V2)** | A modern, Firebase-powered remote agent control system for Valorant with real-time sync. | `Kotlin` `C#` `Firebase` |
 | **[🎮 Mobile Agent Control V1](https://github.com/muhammedsali/MobileAgentControl)** | First version with mobile-to-PC TCP/IP communication. | `Kotlin` `C#` `TCP/IP` |
 | **[🍽 Restaurant Order Tracking](https://github.com/muhammedsali/RestoranTakip)** | Windows Form based restaurant management automation system. | `C#` `WinForms` `MSSQL` |
 | **[📝 JavaFX Notepad](https://github.com/muhammedsali/RestoranTakip)** | Simple and clean note-taking application. | `Java` `JavaFX` |
+
 
 <br/>
 
